@@ -1,0 +1,23 @@
+* {
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.multiMargin {
+  margin: 20px;
+}
+
+.multiMargin {
+  margin: 20px;
+}
+
+body {
+  background-color: rgb(44, 55, 94);
+}
+
+.recipes {
+  margin: 20px;
+  display: inline-block;
+}
